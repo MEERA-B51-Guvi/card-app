@@ -1,0 +1,23 @@
+.card{
+    margin: 6%;
+    margin-left: 30%;
+    width:fit-content;
+    height: fit-content;
+}
+.fill{
+    width: 100%;
+   
+}
+.card-img-top{
+    width: 115%;
+    margin-right: 5%;
+    margin-left: 0%;
+
+   
+   
+}
+Button{
+    align-items: center;
+
+    margin-left: 30%;
+}
